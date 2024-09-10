@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diyaryildiz87
+- 👋 Hi, I’m @diyar
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Python and SQL
 - 😄 Pronouns: Mrs. Chemeng
